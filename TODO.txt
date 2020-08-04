@@ -1,0 +1,19 @@
+FEATURES
+
+
+
+CONTACT
+ contact form
+
+ABOUT
+ figure out prices/ package entails
+ formatting of about section
+ colour changes on specific words
+ 
+INDEX
+ turn x into logo
+ on click modals
+ img hover animation
+ optimal layout
+ change scroll bar colour?
+ 
